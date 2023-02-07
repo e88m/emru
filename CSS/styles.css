@@ -1,0 +1,21 @@
+h1 {
+  color: #188148;
+  font-size: 40px;
+  font-family: Times New Roman
+}
+p {
+  font-family:  "Lucida Console"
+}
+body {
+  background-color: #EBEDEF
+}
+h2 {
+  color: #0E6655
+}
+
+hr{
+ border-color: grey;
+ border-width: 5px;
+ border-style: dotted none none;
+ width: 5%
+}   
